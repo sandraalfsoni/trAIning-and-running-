@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-This project i mainly about AI helping you to become a better runner. Just you and your own skills and weaknesses will be analyzed by AI, and AI will calculate better progress and work that is compatible with you. Not everyone else. Because everybody is different, and that is why you have to personalize your work. This will empower runners to reach their full potential. 
+This project is mainly about AI helping you to become a better runner. Just you and your own skills and weaknesses will be analyzed by AI, and AI will calculate better progress and work that is compatible with you. Not everyone else. Because everybody is different, and that is why you have to personalize your work. This will empower runners to reach their full potential. 
 
 
 ## Background
